@@ -1,2 +1,2 @@
-# 4th_order_Runge-Kutta_method
+# 4th order Runge-Kutta method
 c-code
